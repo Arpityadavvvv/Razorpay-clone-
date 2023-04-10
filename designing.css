@@ -1,0 +1,35 @@
+#card1:hover{
+    transition:all 1s;
+    transform:scale(1.1);
+    box-shadow:1px 1px 1px  gray;
+    /* filter:grayscale(1.1); */
+
+}
+
+
+
+#card2:hover{
+    transition:all 1s;
+    transform:scale(1.1);
+    filter:grayscale(1.1);
+}
+#card3:hover{
+    transition:all 1s;
+    transform:scale(1.1);
+    filter:grayscale(1.1);
+}
+#card4:hover{
+    transition:all 1s;
+    transform:scale(1.1);
+    filter:grayscale(1.1);
+}
+#card5:hover{
+    transition:all 1s;
+    transform:scale(1.1);
+    filter:grayscale(1.1);
+}
+#card6:hover{
+    transition:all 1s;
+    transform:scale(1.1);
+    filter:grayscale(1.1);
+}
